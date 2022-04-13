@@ -335,3 +335,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 861156.483906 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/Granite04small_2K_BaseColor.png
+  artifactKey: Guid(7ab9de3e06c3cb54b93ec5852d5eea27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/Granite04small_2K_BaseColor.png using Guid(7ab9de3e06c3cb54b93ec5852d5eea27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49c140bef21ea0fe38076fa0e0639049') in 0.581059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.070912 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/Terrazzo019L_2K_Color.jpg
+  artifactKey: Guid(5c2d96d3b4f1bc9458b66e510154da8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/Terrazzo019L_2K_Color.jpg using Guid(5c2d96d3b4f1bc9458b66e510154da8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '691d578dbb0db9e037b0f514ed71f7ad') in 0.036121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 45.213224 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/WhatsApp Image 2020-07-14 at 8.39.42 PM 2.jpeg
+  artifactKey: Guid(ffa296c3df8b44b41a599e76079f114d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/WhatsApp Image 2020-07-14 at 8.39.42 PM 2.jpeg using Guid(ffa296c3df8b44b41a599e76079f114d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1726288d39dacecdd8942e5f3af3508') in 0.032505 seconds 

@@ -383,3 +383,253 @@ Received Import Request.
   path: Assets/Fonts/Shizuru-Regular SDF.asset
   artifactKey: Guid(10f3853afb692c9419b55e18d4ef3501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Fonts/Shizuru-Regular SDF.asset using Guid(10f3853afb692c9419b55e18d4ef3501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cca870f31f72bd98b11427a81fbe9164') in 0.108490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50135.471738 seconds.
+  path: Assets/Play.uxml
+  artifactKey: Guid(1220348626a3b8d4ca1ca49987cd1481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Play.uxml using Guid(1220348626a3b8d4ca1ca49987cd1481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c05cda414e2e4c482e4a7145c3c47d') in 0.077807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.837864 seconds.
+  path: Assets/UI Toolkit/UnityThemes
+  artifactKey: Guid(0c4a1c652acd41c40bfe630fc9e8df59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/UnityThemes using Guid(0c4a1c652acd41c40bfe630fc9e8df59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd21f5668abada18c721d32ce51c7c4c8') in 0.005371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.983920 seconds.
+  path: Assets/UI Toolkit/Templates
+  artifactKey: Guid(ca7e5c89404f6844b958fdc5dbfbfce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Templates using Guid(ca7e5c89404f6844b958fdc5dbfbfce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ba6ff23247280a23e44e192b92871a') in 0.005659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.649632 seconds.
+  path: Assets/UI Toolkit/Templates/folder.uxml
+  artifactKey: Guid(c8fc6e6dd08960e42b35dbfa7f310eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Templates/folder.uxml using Guid(c8fc6e6dd08960e42b35dbfa7f310eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4740b772a289d89f3f15abf2e6f40293') in 0.008326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.590302 seconds.
+  path: Assets/UI Toolkit/Templates/Play.uxml
+  artifactKey: Guid(1220348626a3b8d4ca1ca49987cd1481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/Templates/Play.uxml using Guid(1220348626a3b8d4ca1ca49987cd1481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a16654f64dda3ba1ca81c7fa6f1905f1') in 0.007883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11757.336999 seconds.
+  path: Assets/Models/SofaInd006.prefab
+  artifactKey: Guid(fd77f1d7741f38e40b79133806426e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/SofaInd006.prefab using Guid(fd77f1d7741f38e40b79133806426e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d668aff016e9a14ad50f5efbc2ccd83') in 1.528135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.067776 seconds.
+  path: Assets/Models/Sofa 1.prefab
+  artifactKey: Guid(fd77f1d7741f38e40b79133806426e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Sofa 1.prefab using Guid(fd77f1d7741f38e40b79133806426e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdd20918e91b491f3f0a6f0e1132d264') in 0.862868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.315848 seconds.
+  path: Assets/Models/Refrigerador 1.FBX
+  artifactKey: Guid(805a1e60dbf10aa47b75ca3655e8f4ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Refrigerador 1.FBX using Guid(805a1e60dbf10aa47b75ca3655e8f4ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab67f4f574455d3c34cfd43a35677b35') in 0.216214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 63.813772 seconds.
+  path: Assets/Models/fnt_buro_tipoA003.prefab
+  artifactKey: Guid(083d97b298ae9184db7b5ec54abbe7f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/fnt_buro_tipoA003.prefab using Guid(083d97b298ae9184db7b5ec54abbe7f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77edc0c9ffdb9e14a3a38b83e756bc5d') in 0.918339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.660930 seconds.
+  path: Assets/Models/Buro 1.prefab
+  artifactKey: Guid(083d97b298ae9184db7b5ec54abbe7f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Buro 1.prefab using Guid(083d97b298ae9184db7b5ec54abbe7f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3b829d478baf7fc3a6d13579fe66c6') in 0.964114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.799762 seconds.
+  path: Assets/Models/Prueba_extracted_textures
+  artifactKey: Guid(f1ca81a532a56344fbe8c229fbbb95b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures using Guid(f1ca81a532a56344fbe8c229fbbb95b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f024c5ae35a178bd892b23e04fda613') in 0.007476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 231.546496 seconds.
+  path: Assets/Models/RepisaTV010.prefab
+  artifactKey: Guid(83da7124f21e83e4e92ef2ddb48f9c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/RepisaTV010.prefab using Guid(83da7124f21e83e4e92ef2ddb48f9c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de09ba6a1a35eb4a4d58646e45fdabd9') in 0.808629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.900812 seconds.
+  path: Assets/Models/Mueble TV.prefab
+  artifactKey: Guid(83da7124f21e83e4e92ef2ddb48f9c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Mueble TV.prefab using Guid(83da7124f21e83e4e92ef2ddb48f9c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c064176eb50acd6211fae562028d3baf') in 0.993651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.649822 seconds.
+  path: Assets/Models/cuadroobby_018.prefab
+  artifactKey: Guid(125eb1ab4eebed74b9ebf892722d3f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/cuadroobby_018.prefab using Guid(125eb1ab4eebed74b9ebf892722d3f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74e09eecdc622345830ca552716c531f') in 0.715755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.341487 seconds.
+  path: Assets/Models/Cuadro.prefab
+  artifactKey: Guid(125eb1ab4eebed74b9ebf892722d3f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Cuadro.prefab using Guid(125eb1ab4eebed74b9ebf892722d3f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8752d35653f4d3982d3e0ae9268c25e0') in 0.701843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.062393 seconds.
+  path: Assets/Models/Banco013.prefab
+  artifactKey: Guid(f78d97c0104090b4e82856c9172014b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Banco013.prefab using Guid(f78d97c0104090b4e82856c9172014b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4d321c2dc8e6fc564b3223cf0d37929') in 0.831855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.101042 seconds.
+  path: Assets/Models/Banco.prefab
+  artifactKey: Guid(f78d97c0104090b4e82856c9172014b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Banco.prefab using Guid(f78d97c0104090b4e82856c9172014b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48ee01300a5ecac2d58d5ce469864c7') in 0.745975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.180903 seconds.
+  path: Assets/Models/sofa059.prefab
+  artifactKey: Guid(832527537f0f6694893a41ef40442114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/sofa059.prefab using Guid(832527537f0f6694893a41ef40442114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9a2581ce0c82c1b0191260a8dfaff7c') in 0.717881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.702245 seconds.
+  path: Assets/Models/Sofa 2.prefab
+  artifactKey: Guid(832527537f0f6694893a41ef40442114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Sofa 2.prefab using Guid(832527537f0f6694893a41ef40442114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '989e517e0137cfa608ba0b78345a99e3') in 0.964369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.017629 seconds.
+  path: Assets/Models/Mac.prefab
+  artifactKey: Guid(cda01a5b13f0b254a97b4b48d61fefd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Mac.prefab using Guid(cda01a5b13f0b254a97b4b48d61fefd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cba13868b29bc147224de9b82d0d1771') in 0.759884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.055991 seconds.
+  path: Assets/Models/Cuadro 1.prefab
+  artifactKey: Guid(125eb1ab4eebed74b9ebf892722d3f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Cuadro 1.prefab using Guid(125eb1ab4eebed74b9ebf892722d3f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a7b4209cdb3b82f91903bd77514de01') in 0.814937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.879545 seconds.
+  path: Assets/Models/cuadroobby_021.prefab
+  artifactKey: Guid(9e63a169853c44e47a448e989978211f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/cuadroobby_021.prefab using Guid(9e63a169853c44e47a448e989978211f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df1ea98507a53972667e69bba60d9c7') in 0.769125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.752384 seconds.
+  path: Assets/Models/Cuadro 2.prefab
+  artifactKey: Guid(9e63a169853c44e47a448e989978211f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Cuadro 2.prefab using Guid(9e63a169853c44e47a448e989978211f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94fe406df816b678752848362657f279') in 0.826724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 109.589664 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/Fridge_AlbedoTransparency.jpg
+  artifactKey: Guid(83d7f83bab8e4aa488b505924f3d3991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/Fridge_AlbedoTransparency.jpg using Guid(83d7f83bab8e4aa488b505924f3d3991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674c7387ee810f9c3a56251164df8ce9') in 0.087637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/1/Marble020_4K_Color.jpg
+  artifactKey: Guid(130891bc03541484c861cf8592602d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/1/Marble020_4K_Color.jpg using Guid(130891bc03541484c861cf8592602d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222ec61e252a2a64948c6a1230589778') in 0.038447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/Leukon_Square_AlbedoTransparency.jpg
+  artifactKey: Guid(322f732616ca62643b3c8947ee41f16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/Leukon_Square_AlbedoTransparency.jpg using Guid(322f732616ca62643b3c8947ee41f16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a20e75add53618762f959d9fa20f2e1a') in 0.035730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56bfd8293eae9d0c9194af87f57b6195') in 0.050238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/Kitchen_Accessory_AlbedoTransparency.jpg
+  artifactKey: Guid(85861498a0ef79244ae1ad1098258a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/Kitchen_Accessory_AlbedoTransparency.jpg using Guid(85861498a0ef79244ae1ad1098258a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c240f61538daaad9b2f48a7255c909ba') in 0.028167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/Layer 0.png
+  artifactKey: Guid(5e8c81dae4aa00541988bbbfc0eeb6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/Layer 0.png using Guid(5e8c81dae4aa00541988bbbfc0eeb6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbc1845a431ee250c3c26919e1e08919') in 0.023489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f20078eece58ba96904c49f75da6ef0') in 0.028680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/Mac_AlbedoTransparency1.jpg
+  artifactKey: Guid(c8ad7260de1a301418ec4c0d40430473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/Mac_AlbedoTransparency1.jpg using Guid(c8ad7260de1a301418ec4c0d40430473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8ed33fe6e57bf5fbde2626b8e9e61b1') in 0.019280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/Grass001_2K_Color.jpg
+  artifactKey: Guid(5b788ac89d1ac24488e3b4a649fc18af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/Grass001_2K_Color.jpg using Guid(5b788ac89d1ac24488e3b4a649fc18af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055c3cd9cd16b1d6fdfb1e1c9952b19f') in 0.033662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.067482 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/Marble020_4K_Color.jpg
+  artifactKey: Guid(5d3080a969305134eb08793dc712af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/Marble020_4K_Color.jpg using Guid(5d3080a969305134eb08793dc712af47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d69becfb6ab6c58cef652bfb9034fc') in 0.034801 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/Oliver-Gal-Tristan-e-Isolde-Framed-Painting-Print.jpg
+  artifactKey: Guid(1663d83e33b1d2647a018d24c982cb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/Oliver-Gal-Tristan-e-Isolde-Framed-Painting-Print.jpg using Guid(1663d83e33b1d2647a018d24c982cb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '440051fb9418c580252bdcb8e16b4219') in 0.019170 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/Oliver-Gal-Grandeur-Framed-Painting-Print.jpg
+  artifactKey: Guid(1b3a0b335e241be44bf254bfce13b25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/Oliver-Gal-Grandeur-Framed-Painting-Print.jpg using Guid(1b3a0b335e241be44bf254bfce13b25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c327325f83b14871c6da8c5398496b') in 0.024060 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/Picture.jpg
+  artifactKey: Guid(82d1b3fe51fd3194187b1932c186f35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/Picture.jpg using Guid(82d1b3fe51fd3194187b1932c186f35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1834bcd916c0c7b37a2caf1111a4968f') in 0.040683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/metallic-railing-point-texture-made-black-points-grey-metal-48846736.jpg
+  artifactKey: Guid(6590f8b7a3c035743875348c5f217274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/metallic-railing-point-texture-made-black-points-grey-metal-48846736.jpg using Guid(6590f8b7a3c035743875348c5f217274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26085e94bd26d5e61aa0a0138d1dcfa5') in 0.015531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/ParquetFlooring01_2K_BaseColor.png
+  artifactKey: Guid(b8a830903e0e60b4caf14ca3e88f9c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/ParquetFlooring01_2K_BaseColor.png using Guid(b8a830903e0e60b4caf14ca3e88f9c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec5606d94c5ae640bdd465f9bfa1292') in 0.035948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.293202 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/tapetonverde.jpg
+  artifactKey: Guid(f9e3144f3f8190347b14589e7b20a41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/tapetonverde.jpg using Guid(f9e3144f3f8190347b14589e7b20a41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae71df2b3e1de8d114eecadab225e972') in 0.022857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/Tiles047_1K_Color.jpg
+  artifactKey: Guid(e5ec24e705466eb468817b6dc6e3f67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/Tiles047_1K_Color.jpg using Guid(e5ec24e705466eb468817b6dc6e3f67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45204cb97115987f0d61518a878a703') in 0.020902 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 45.199592 seconds.
+  path: Assets/Models/Prueba_extracted_textures/Prueba.fbm/washer_008.jpg
+  artifactKey: Guid(8d00f0598dbdb59438fd84ec3d4ab822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prueba_extracted_textures/Prueba.fbm/washer_008.jpg using Guid(8d00f0598dbdb59438fd84ec3d4ab822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be2d86fbdd842e1bd80929c396aaeb7e') in 0.027104 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
