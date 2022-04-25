@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class Furniture : MonoBehaviour
 {
-    [SerializeField] private float width, height, depth;
-    [SerializeField] private float weight;
+    [SerializeField] public float width, height, depth;
+    [SerializeField] public float weight;
 }
