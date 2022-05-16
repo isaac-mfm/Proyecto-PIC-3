@@ -9,7 +9,8 @@ public class ARTapToPlace : MonoBehaviour
 {
     public static ARTapToPlace INSTANCE = null;
     public Furniture selectedFurniture;
-    private Furniture spawnedFurniture;
+    private Furniture currentFurniture;
+    private List<Furniture> spawnedFurnitures;
     private ARRaycastManager arRaycastManager;
     private static List<ARRaycastHit> hits = new List<ARRaycastHit>();
     private Vector2 touchPosition;
@@ -24,13 +25,15 @@ public class ARTapToPlace : MonoBehaviour
         if (arRaycastManager.Raycast(touchPosition, hits, TrackableType.PlaneWithinPolygon))
         {
             var hitPose = hits[0].pose;
-            if (!spawnedFurniture)
+            if (!currentFurniture)
             {
-                spawnedFurniture = Instantiate(selectedFurniture, hitPose.position, hitPose.rotation);
+                var spawnedFurniture = Instantiate(selectedFurniture, hitPose.position, hitPose.rotation);
+                currentFurniture = spawnedFurniture;
+                spawnedFurnitures.Add(spawnedFurniture);
             }
             else
             {
-                spawnedFurniture.transform.position = hitPose.position;
+                currentFurniture.transform.position = hitPose.position;
             }
         }
     }
@@ -43,5 +46,15 @@ public class ARTapToPlace : MonoBehaviour
         }
         touchPosition = default;
         return false;
+    }
+    public void PlaceFurniture()
+    {
+        currentFurniture = null;
+    }
+
+    public void Cancel()
+    {
+        if (currentFurniture) Destroy(currentFurniture.gameObject);
+        currentFurniture = null;
     }
 }
