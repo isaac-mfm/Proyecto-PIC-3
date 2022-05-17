@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-public class FurnitureFolderController : MonoBehaviour
+public class FurnitureMenu : MonoBehaviour
 {
     [SerializeField] VisualTreeAsset folderUXML;
     [SerializeField] VisualTreeAsset furnitureUXML;
@@ -28,7 +28,7 @@ public class FurnitureFolderController : MonoBehaviour
             TemplateContainer folderTemplate = folderUXML.Instantiate();
             folderTemplate.Q<VisualElement>("folder").RegisterCallback<ClickEvent>(ev => 
             {
-                Debug.Log("abriendo carpeta: " + furnitureFolder.name);
+                Debug.Log("abriendo carspeta: " + furnitureFolder.name);
                 OpenFolder(furnitureFolder);
             });
             folderTemplate.Q<Label>("folder-text").text = furnitureFolder.name;
