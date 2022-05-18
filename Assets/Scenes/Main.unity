@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 272499233}
   - component: {fileID: 272499232}
   - component: {fileID: 272499234}
+  - component: {fileID: 272499235}
   m_Layer: 5
   m_Name: UIDocument
   m_TagString: Untagged
@@ -195,6 +196,20 @@ MonoBehaviour:
     furnitureButtons:
     - furniture: {fileID: -4780499159342862263, guid: cabfdfc37bb72b5418361fa18990f7f6, type: 3}
       thumbnailTexture: {fileID: 2800000, guid: e3c8a316a479d3c46bea10a8e1ddbc56, type: 3}
+    - furniture: {fileID: -2666900078496325577, guid: fd77f1d7741f38e40b79133806426e5f, type: 3}
+      thumbnailTexture: {fileID: 2800000, guid: 4a2afc33981175314841a20c337e3290, type: 3}
+--- !u!114 &272499235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 272499231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe6b1d32c6674b0281840572930c653, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &440572557
 GameObject:
   m_ObjectHideFlags: 0
@@ -550,6 +565,7 @@ GameObject:
   - component: {fileID: 1795699132}
   - component: {fileID: 1795699134}
   - component: {fileID: 1795699133}
+  - component: {fileID: 1795699135}
   m_Layer: 0
   m_Name: AR Session Origin
   m_TagString: Untagged
@@ -626,3 +642,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_RaycastPrefab: {fileID: 0}
+--- !u!114 &1795699135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1795699129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd1a34056d2f8ebe097ea9aa0c1fd59f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

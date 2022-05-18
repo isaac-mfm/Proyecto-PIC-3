@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
 
+[RequireComponent(typeof(UIDocument))]
 public class FurnitureMenu : MonoBehaviour
 {
     [SerializeField] VisualTreeAsset folderUXML;
