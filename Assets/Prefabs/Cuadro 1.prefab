@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6937582655795192807}
   - component: {fileID: 6702337337694002334}
   - component: {fileID: 1457324031293394745}
+  - component: {fileID: 9009140020841479470}
   m_Layer: 0
   m_Name: Cuadro 1
   m_TagString: Untagged
@@ -25,9 +26,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3723251733204392470}
-  m_LocalRotation: {x: 0.5000002, y: 0.50000006, z: 0.49999982, w: 0.49999997}
-  m_LocalPosition: {x: -3.3547313, y: 5.618579, z: 0.6022232}
-  m_LocalScale: {x: 0.638489, y: 1, z: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -61,8 +62,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -3678718859988496052, guid: 2f8b43d888898ed4a9b2f205e6ccce9e, type: 3}
-  - {fileID: -7607308559822321689, guid: 2f8b43d888898ed4a9b2f205e6ccce9e, type: 3}
+  - {fileID: 2100000, guid: 5e3fe5825757a88deb4d82ca3f6d35f7, type: 2}
+  - {fileID: 2100000, guid: 0933b04816fccc6d0a578c9263625b6d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -84,3 +85,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &9009140020841479470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3723251733204392470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cc5922492d488248806ab3b412cbd5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  width: 0
+  height: 0
+  depth: 0
+  weight: 0

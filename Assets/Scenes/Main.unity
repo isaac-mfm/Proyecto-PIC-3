@@ -187,17 +187,43 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   folderUXML: {fileID: 9197481963319205126, guid: c8fc6e6dd08960e42b35dbfa7f310eae, type: 3}
   furnitureUXML: {fileID: 9197481963319205126, guid: 3351e0bda3b6ba7f7971d801ce46dd10, type: 3}
+  _material: {fileID: 0}
+  mesh: {fileID: 0}
   furnitureFolders:
-  - name: Refrigeradores
+  - name: Electrodomesticos
     furnitureButtons:
     - furniture: {fileID: -2242226795556152599, guid: f35b4696f4c3e5d4b9b3109bcc5f4020, type: 3}
       thumbnailTexture: {fileID: 2800000, guid: 384a657237de3e342afc3cf9aef02dec, type: 3}
-  - name: Sillas
+  - name: Asientos
     furnitureButtons:
     - furniture: {fileID: -4780499159342862263, guid: cabfdfc37bb72b5418361fa18990f7f6, type: 3}
       thumbnailTexture: {fileID: 2800000, guid: e3c8a316a479d3c46bea10a8e1ddbc56, type: 3}
     - furniture: {fileID: -2666900078496325577, guid: fd77f1d7741f38e40b79133806426e5f, type: 3}
       thumbnailTexture: {fileID: 2800000, guid: 4a2afc33981175314841a20c337e3290, type: 3}
+    - furniture: {fileID: 4994300529186367268, guid: f78d97c0104090b4e82856c9172014b7, type: 3}
+      thumbnailTexture: {fileID: 2800000, guid: 6b13718c4e865f2b08b2e8bc6f5132f4, type: 3}
+    - furniture: {fileID: 255149335601338239, guid: 059ecc9ea77c7464ca608df9e0aa01aa, type: 3}
+      thumbnailTexture: {fileID: 2800000, guid: e3c8a316a479d3c46bea10a8e1ddbc56, type: 3}
+  - name: Carpinteria
+    furnitureButtons:
+    - furniture: {fileID: 1263301718875525433, guid: 083d97b298ae9184db7b5ec54abbe7f3, type: 3}
+      thumbnailTexture: {fileID: 2800000, guid: c9277b9512f8dc441b991af140518ef3, type: 3}
+    - furniture: {fileID: 9190736125971505820, guid: 83da7124f21e83e4e92ef2ddb48f9c07, type: 3}
+      thumbnailTexture: {fileID: 2800000, guid: 468d9bcd065153156bd4e0ec54b44828, type: 3}
+    - furniture: {fileID: 4009730871279555385, guid: d25d5f28ef2bffb4ca14bacad7828a1f, type: 3}
+      thumbnailTexture: {fileID: 2800000, guid: fcc8b3f0aaebc189b8a69904f83ffd51, type: 3}
+    - furniture: {fileID: -4723032955271051964, guid: d26ce104f444e58f4b27fee10c0e8037, type: 3}
+      thumbnailTexture: {fileID: 2800000, guid: 468d9bcd065153156bd4e0ec54b44828, type: 3}
+    - furniture: {fileID: -8455846926115928029, guid: 5928edb13b86a69ccb844c62f942ef29, type: 3}
+      thumbnailTexture: {fileID: 2800000, guid: efa6ac6eaa2bbf514b89392f968a1794, type: 3}
+  - name: Decoracion
+    furnitureButtons:
+    - furniture: {fileID: 140611527492432924, guid: 5925d527e736bea62a3c114b7d2f3ea3, type: 3}
+      thumbnailTexture: {fileID: 2800000, guid: 6b8b5579233079144b783857f6f494e1, type: 3}
+    - furniture: {fileID: 2556922281150112704, guid: 6d014748c3efcc3dab35f70fabaa747d, type: 3}
+      thumbnailTexture: {fileID: 2800000, guid: d10ffa20053ccd2e29f01dabf091da08, type: 3}
+    - furniture: {fileID: 5943448436110883820, guid: c6b46c50ded63bec7a7fef18e1c3b588, type: 3}
+      thumbnailTexture: {fileID: 2800000, guid: 5880b79d545587bb7897b6e6607e2a9d, type: 3}
 --- !u!114 &272499235
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -615,7 +641,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_PlanePrefab: {fileID: 672050859244311138, guid: 2b0a6e997428172429d5fffb23cce879, type: 3}
-  m_DetectionMode: 1
+  m_DetectionMode: -1
 --- !u!114 &1795699133
 MonoBehaviour:
   m_ObjectHideFlags: 0

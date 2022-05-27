@@ -14,15 +14,18 @@ public class FurnitureMenu : MonoBehaviour
     private ScrollView folderArea;
     private ScrollView furnitureArea;
     private VisualElement backButton;
+    private Button hideButton;
     void Start()
     {
         var root = GetComponent<UIDocument>().rootVisualElement;
         inventory = root.Q<GroupBox>("inventory");
+        hideButton = root.Q<Button>("back-button");
         folderArea = inventory.Q<ScrollView>("folder-panel");
         furnitureArea = inventory.Q<ScrollView>("furniture-panel");
         placementMenu = inventory.Q<GroupBox>("placement-menu");
         backButton = furnitureArea.Q<VisualElement>("back-button");
         backButton.RegisterCallback<ClickEvent>(ev => CloseFolder());
+
         foreach (FurnitureFolder furnitureFolder in furnitureFolders)
         {
             Debug.Log("anadiendo carpeta: " + furnitureFolder.name);
@@ -55,14 +58,10 @@ public class FurnitureMenu : MonoBehaviour
     }
     public void CloseFolder()
     {
+        furnitureArea.Clear();
+        furnitureArea.Add(backButton);
         furnitureArea.style.display = DisplayStyle.None;
         folderArea.style.display = DisplayStyle.Flex;
-        foreach(var child in furnitureArea.Children()) 
-        {
-            Debug.Log(child.name);
-            if (child.name == "furniture") furnitureArea.Remove(child);
-        }
-        
     }
     public void SelectFurniture(Furniture furniture)
     {
